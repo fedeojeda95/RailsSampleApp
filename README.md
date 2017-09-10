@@ -5,6 +5,11 @@ This is the sample application for
 Learn Web Development with Rails*](http://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com/).
 
+## Website
+
+This web application is hosted using [Heroku](https://www.heroku.com) on the following url:
+https://serene-everglades-90489.herokuapp.com
+
 ## License
 
 All source code in the [Ruby on Rails Tutorial](http://railstutorial.org/)
